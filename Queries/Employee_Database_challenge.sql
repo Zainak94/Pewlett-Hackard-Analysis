@@ -23,12 +23,12 @@ FROM retirement_titles
 ORDER BY emp_no, to_date DESC;
 
 --Query #3: retiring_titles: 
-SELECT COUNT(title) AS "number_of_titles",
+SELECT COUNT(title) AS "count",
 title
 INTO retiring_titles
 FROM unique_titles
 GROUP BY title
-ORDER BY number_of_titles DESC;
+ORDER BY count DESC;
 
 --Deliverable #2: Employees Eligible for Mentorship Program: 
 --Mentorship-eligibility table that holds the current employees birth_date 1965 and 1965.
