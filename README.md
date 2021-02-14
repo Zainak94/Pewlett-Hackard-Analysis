@@ -32,6 +32,7 @@ There will be 7 roles that needed to be filled as the “silver tsunami” begin
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 There are more than enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees. We took retirement ready employees’ birth date starting from January 1956- December 1056 (age 64). These are the employees who are ready to retire as they have 1 year left. In this analysis, did not take 65 years old as they will be retiring this year. In the retirement_ready_titles, it shows that we have good amount of people that are ready to retire who can mentor the employees that are eligible for mentorship program. 
+**Queries used to calculate these can be found under Queries "Retirement_Ready.sql" and the data in resources folder under "retirement_ready_titles"** 
 
 ![ Pewlett-Hackard-Analysis]( https://github.com/Zainak94/Pewlett-Hackard-Analysis/blob/main/Queries/retirement_ready_unique.PNG)
 
